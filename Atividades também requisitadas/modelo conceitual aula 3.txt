@@ -1,0 +1,43 @@
+Cadastro de produto:	(PAPELARIA)
+
+1 - CODIGO_PROD(PK):	Código de produto
+2 - TIPO_PROD:		Tipo do produto
+3 - CATEGORIA_PROD:	Categoria do produto
+4 - NOME_PROD:		Nome do produto
+5 - PREÇO_UNIT_PROD:	Preço unitário do produto
+6 - QUANT_PROD:		Quantidade de produto
+7 - PESO_PROD:		Peso do produto
+8 - FORNECEDOR_PROD:	Fornecedor do produto
+
+Cadastro de funcionários: (ESCOLA)
+
+
+1 - ID_FUNC(PK):	Id do funcionário
+2 - NOME_FUNC:		Nome do funcionário
+3 - CARGO_FUNC:		Cargo do funcionário
+4 - DATA_NASC_FUNC:	Data de nascimento do funcionário
+5 - RG_FUNC:		RG do funcionário
+6 - CPF_FUNC:		CPF do funcionário
+7 - SALARIO_FUNC:	Salário do funcionário
+8 - ENDEREÇO_FUNC:	Endereço do funcionário
+9 - TELEFONE_FUNC:	Telefone do funcionário
+10 - EMAIL_FUNC:	Email do funcionário
+
+Cadastro de Fornecedores: (TECIDO)
+
+1 - CODIGO_FORN(PK):	Código do fornecedor
+2 - NOME_FORN:		Nome do fornecedor
+3 - MARCA_FORN:		Marca do fornecedor
+4 - TIPO_TECI_FORN:	Tipo de tecido do fornecedor
+5 - CNPJ_FORN:		CPNJ do fornecedor
+6 - ENDEREÇO_FORN:	Endereço do fornecedor
+7 - TELEFONE_FONR:	Telefone do fornecedor
+8 - EMAIL_FORN:		Email do fornecedor
+
+Cadastro de Departamento: (EMPRESA)
+
+1 - CODIGO_DEP(PK):	Código de departamento
+2 - NOME_DEP:		Nome do departamento
+3 - ID_GERENTE_DEP:	ID do gerente do departamento
+4 - SERVIÇO_DEP:	Serviço do departamento
+5 - TELEFONE_DEP:	Telefone do departamento
